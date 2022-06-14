@@ -1,7 +1,6 @@
 import './App.css';
 import Header from './Components/Header/Header';
 import MainContent from './Components/MainContent/MainContent';
-import Footer from './Components/Footer/Footer'
 
 
 
@@ -10,7 +9,6 @@ function App() {
     <div>
       <Header/>
       <MainContent/>
-      <Footer/>
     </div>
   );
 }
